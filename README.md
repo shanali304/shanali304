@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **node js**
 
-- 💬 Ask me about **react js flutter php basic**
+- 💬 Ask me about ** flutter php basic**
 
 - 📫 How to reach me **alishaan2122@gmail.com**
 
